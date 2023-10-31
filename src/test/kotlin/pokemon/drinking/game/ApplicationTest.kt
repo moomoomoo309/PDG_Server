@@ -1,4 +1,4 @@
-package com.example
+package pokemon.drinking.game
 
 class ApplicationTest {
 }
